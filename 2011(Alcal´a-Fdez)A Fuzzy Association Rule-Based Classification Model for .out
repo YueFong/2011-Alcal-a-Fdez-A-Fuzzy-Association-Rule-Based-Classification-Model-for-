@@ -1,0 +1,22 @@
+\BOOKMARK [2][]{Outline0.1}{INTRODUCTION}{}% 1
+\BOOKMARK [2][]{Outline0.2}{PRELIMINARIES}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.8}{A.Fuzzy Rule-Based Classification Systems}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.10}{B.Fuzzy Association Rules}{Outline0.2}% 4
+\BOOKMARK [3][]{Outline0.2.3.12}{C.Fuzzy Association Rules for Classification}{Outline0.2}% 5
+\BOOKMARK [2][]{Outline0.3}{FUZZY ASSOCIATION RULE-BASED CLASSIFIER FOR HIGH-DIMENSIONAL PROBLEMS}{}% 6
+\BOOKMARK [3][]{Outline0.3.1.14}{Stage 1. Fuzzy Association Rule Extraction for Classification}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.2.16}{Stage 2. Candidate Rule Prescreening}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.3.21}{Stage 3. Rule Selection and Lateral Tuning}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.4.26}{Flowchart}{Outline0.3}% 10
+\BOOKMARK [2][]{Outline0.4}{EXPERIMENTAL SETUP}{}% 11
+\BOOKMARK [3][]{Outline0.4.1.30}{A.Datasetst}{Outline0.4}% 12
+\BOOKMARK [3][]{Outline0.4.2.31}{B.Methods Considered for Comparison}{Outline0.4}% 13
+\BOOKMARK [3][]{Outline0.4.3.32}{C.Parameters of the Methods}{Outline0.4}% 14
+\BOOKMARK [3][]{Outline0.4.4.33}{D.Statistical Analysis}{Outline0.4}% 15
+\BOOKMARK [2][]{Outline0.5}{EXPERIMENTAL RESULTS}{}% 16
+\BOOKMARK [3][]{Outline0.5.1.35}{A.Comparison With Other Genetic Fuzzy Systems}{Outline0.5}% 17
+\BOOKMARK [3][]{Outline0.5.2.39}{B.Comparison With Other Fuzzy Associative Classifiers}{Outline0.5}% 18
+\BOOKMARK [3][]{Outline0.5.3.42}{C.Comparison With Classical Approaches}{Outline0.5}% 19
+\BOOKMARK [3][]{Outline0.5.4.46}{D.Analysis of the Influence of Depthmax and the Number of Evaluations}{Outline0.5}% 20
+\BOOKMARK [3][]{Outline0.5.5.48}{E.AnalysisofScalability}{Outline0.5}% 21
+\BOOKMARK [2][]{Outline0.6}{CONCLUDING REMARKS}{}% 22

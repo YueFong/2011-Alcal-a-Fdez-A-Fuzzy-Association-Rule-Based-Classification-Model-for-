@@ -1,0 +1,23 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{INTRODUCTION}{3}{0}{1}
+\beamer@sectionintoc {2}{PRELIMINARIES}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{A.Fuzzy Rule-Based Classification Systems}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{B.Fuzzy Association Rules}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{C.Fuzzy Association Rules for Classification}{12}{0}{2}
+\beamer@sectionintoc {3}{FUZZY ASSOCIATION RULE-BASED CLASSIFIER FOR HIGH-DIMENSIONAL PROBLEMS}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Stage 1. Fuzzy Association Rule Extraction for Classification}{14}{0}{3}
+\beamer@subsectionintoc {3}{2}{Stage 2. Candidate Rule Prescreening}{16}{0}{3}
+\beamer@subsectionintoc {3}{3}{Stage 3. Rule Selection and Lateral Tuning}{21}{0}{3}
+\beamer@subsectionintoc {3}{4}{Flowchart}{26}{0}{3}
+\beamer@sectionintoc {4}{EXPERIMENTAL SETUP}{28}{0}{4}
+\beamer@subsectionintoc {4}{1}{A.Datasetst}{30}{0}{4}
+\beamer@subsectionintoc {4}{2}{B.Methods Considered for Comparison}{31}{0}{4}
+\beamer@subsectionintoc {4}{3}{C.Parameters of the Methods}{32}{0}{4}
+\beamer@subsectionintoc {4}{4}{D.Statistical Analysis}{33}{0}{4}
+\beamer@sectionintoc {5}{EXPERIMENTAL RESULTS}{34}{0}{5}
+\beamer@subsectionintoc {5}{1}{A.Comparison With Other Genetic Fuzzy Systems}{35}{0}{5}
+\beamer@subsectionintoc {5}{2}{B.Comparison With Other Fuzzy Associative Classifiers}{39}{0}{5}
+\beamer@subsectionintoc {5}{3}{C.Comparison With Classical Approaches}{42}{0}{5}
+\beamer@subsectionintoc {5}{4}{D.Analysis of the Influence of Depthmax and the Number of Evaluations}{46}{0}{5}
+\beamer@subsectionintoc {5}{5}{E.AnalysisofScalability}{48}{0}{5}
+\beamer@sectionintoc {6}{CONCLUDING REMARKS}{50}{0}{6}
