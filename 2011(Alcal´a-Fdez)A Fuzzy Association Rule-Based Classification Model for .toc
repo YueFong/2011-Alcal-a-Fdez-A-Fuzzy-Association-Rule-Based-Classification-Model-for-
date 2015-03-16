@@ -18,6 +18,6 @@
 \beamer@subsectionintoc {5}{1}{A.Comparison With Other Genetic Fuzzy Systems}{35}{0}{5}
 \beamer@subsectionintoc {5}{2}{B.Comparison With Other Fuzzy Associative Classifiers}{39}{0}{5}
 \beamer@subsectionintoc {5}{3}{C.Comparison With Classical Approaches}{42}{0}{5}
-\beamer@subsectionintoc {5}{4}{D.Analysis of the Influence of Depthmax and the Number of Evaluations}{46}{0}{5}
-\beamer@subsectionintoc {5}{5}{E.AnalysisofScalability}{48}{0}{5}
+\beamer@subsectionintoc {5}{4}{D.Analysis of the Influence of $Depth_{max}$ and the Number of Evaluations}{46}{0}{5}
+\beamer@subsectionintoc {5}{5}{E.Analysis of Scalability}{48}{0}{5}
 \beamer@sectionintoc {6}{CONCLUDING REMARKS}{50}{0}{6}

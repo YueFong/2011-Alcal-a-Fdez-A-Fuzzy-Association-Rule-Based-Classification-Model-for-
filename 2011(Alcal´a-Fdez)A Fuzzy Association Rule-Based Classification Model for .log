@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.7)  5 MAR 2015 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.7)  12 MAR 2015 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1348,7 +1348,28 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 ]
 (./2011(Alcal´a-Fdez)A Fuzzy Association Rule-Based Classification Model for .
-toc)
+toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 21.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 21.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+))
 Overfull \hbox (235.02637pt too wide) has occurred while \output is active
  [][][][]  
  []
@@ -1386,27 +1407,6 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 [7
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 242.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 242.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 242.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 242.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 242
 .
 LaTeX Font Info:    No file OMScmss.fd. on input line 242.
@@ -1430,7 +1430,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [9
 
-] <./1.png, id=377, 622.325pt x 281.05pt>
+] <./1.png, id=463, 622.325pt x 281.05pt>
 File: ./1.png Graphic file (type png)
  <use ./1.png>
 Package pdftex.def Info: ./1.png used on input line 278.
@@ -1465,7 +1465,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [13
 
-] <./2.png, id=517, 1470.49374pt x 477.785pt>
+] <./2.png, id=599, 1470.49374pt x 477.785pt>
 File: ./2.png Graphic file (type png)
  <use ./2.png>
 Package pdftex.def Info: ./2.png used on input line 337.
@@ -1497,7 +1497,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [16
 
-] <./3.png, id=613, 442.65375pt x 306.14375pt>
+] <./3.png, id=693, 442.65375pt x 306.14375pt>
 File: ./3.png Graphic file (type png)
  <use ./3.png>
 Package pdftex.def Info: ./3.png used on input line 391.
@@ -1532,7 +1532,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [20
 
-] <./4.png, id=739, 702.625pt x 469.755pt>
+] <./4.png, id=819, 702.625pt x 469.755pt>
 File: ./4.png Graphic file (type png)
  <use ./4.png>
 Package pdftex.def Info: ./4.png used on input line 467.
@@ -1548,7 +1548,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [21
 
- <./4.png>] <./5.png, id=772, 750.805pt x 617.30624pt>
+ <./4.png>] <./5.png, id=852, 750.805pt x 617.30624pt>
 File: ./5.png Graphic file (type png)
  <use ./5.png>
 Package pdftex.def Info: ./5.png used on input line 477.
@@ -1578,7 +1578,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [24
 
-] <./6.png, id=865, 715.67375pt x 369.38pt>
+] <./6.png, id=944, 715.67375pt x 369.38pt>
 File: ./6.png Graphic file (type png)
  <use ./6.png>
 Package pdftex.def Info: ./6.png used on input line 542.
@@ -1590,7 +1590,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [25
 
- <./6.png>] <./7.png, id=897, 1144.275pt x 331.2375pt>
+ <./6.png>] <./7.png, id=977, 1144.275pt x 331.2375pt>
 File: ./7.png Graphic file (type png)
  <use ./7.png>
 Package pdftex.def Info: ./7.png used on input line 554.
@@ -1607,7 +1607,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [26
 
- <./7.png>] <./8.png, id=930, 551.05875pt x 310.15875pt>
+ <./7.png>] <./8.png, id=1008, 551.05875pt x 310.15875pt>
 File: ./8.png Graphic file (type png)
  <use ./8.png>
 Package pdftex.def Info: ./8.png used on input line 563.
@@ -1635,7 +1635,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [29
 
-] <./9.png, id=1037, 1276.77pt x 688.5725pt>
+] <./9.png, id=1114, 1276.77pt x 688.5725pt>
 File: ./9.png Graphic file (type png)
  <use ./9.png>
 Package pdftex.def Info: ./9.png used on input line 590.
@@ -1654,7 +1654,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [31
 
-] <./10.png, id=1098, 1276.77pt x 751.80875pt>
+] <./10.png, id=1174, 1276.77pt x 751.80875pt>
 File: ./10.png Graphic file (type png)
  <use ./10.png>
 Package pdftex.def Info: ./10.png used on input line 626.
@@ -1666,7 +1666,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [32
 
- <./10.png>] <./11.png, id=1130, 824.07875pt x 594.22pt>
+ <./10.png>] <./11.png, id=1204, 824.07875pt x 594.22pt>
 File: ./11.png Graphic file (type png)
  <use ./11.png>
 Package pdftex.def Info: ./11.png used on input line 642.
@@ -1691,7 +1691,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [34
 
-] <./12.png, id=1210, 959.585pt x 883.3pt>
+] <./12.png, id=1283, 959.585pt x 883.3pt>
 File: ./12.png Graphic file (type png)
  <use ./12.png>
 Package pdftex.def Info: ./12.png used on input line 657.
@@ -1703,7 +1703,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [35
 
- <./12.png>] <./13.png, id=1243, 622.325pt x 282.05376pt>
+ <./12.png>] <./13.png, id=1314, 622.325pt x 282.05376pt>
 File: ./13.png Graphic file (type png)
  <use ./13.png>
 Package pdftex.def Info: ./13.png used on input line 667.
@@ -1715,7 +1715,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [36
 
- <./13.png>] <./14.png, id=1274, 350.30875pt x 242.9075pt>
+ <./13.png>] <./14.png, id=1345, 350.30875pt x 242.9075pt>
 File: ./14.png Graphic file (type png)
  <use ./14.png>
 Package pdftex.def Info: ./14.png used on input line 677.
@@ -1727,7 +1727,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [37
 
- <./14.png>] <./15.png, id=1306, 567.11874pt x 202.7575pt>
+ <./14.png>] <./15.png, id=1378, 567.11874pt x 202.7575pt>
 File: ./15.png Graphic file (type png)
  <use ./15.png>
 Package pdftex.def Info: ./15.png used on input line 687.
@@ -1739,7 +1739,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [38
 
- <./15.png>] <./16.png, id=1336, 668.4975pt x 584.1825pt>
+ <./15.png>] <./16.png, id=1408, 668.4975pt x 584.1825pt>
 File: ./16.png Graphic file (type png)
  <use ./16.png>
 Package pdftex.def Info: ./16.png used on input line 700.
@@ -1758,7 +1758,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [40
 
-] <./17.png, id=1398, 543.02875pt x 190.7125pt>
+] <./17.png, id=1468, 543.02875pt x 190.7125pt>
 File: ./17.png Graphic file (type png)
  <use ./17.png>
 Package pdftex.def Info: ./17.png used on input line 724.
@@ -1770,7 +1770,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [41
 
- <./17.png>] <./18.png, id=1428, 1086.0575pt x 873.2625pt>
+ <./17.png>] <./18.png, id=1499, 1086.0575pt x 873.2625pt>
 File: ./18.png Graphic file (type png)
  <use ./18.png>
 Package pdftex.def Info: ./18.png used on input line 737.
@@ -1782,7 +1782,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [42
 
- <./18.png>] <./19.png, id=1461, 610.28pt x 276.03125pt>
+ <./18.png>] <./19.png, id=1530, 610.28pt x 276.03125pt>
 File: ./19.png Graphic file (type png)
  <use ./19.png>
 Package pdftex.def Info: ./19.png used on input line 747.
@@ -1794,7 +1794,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [43
 
- <./19.png>] <./20.png, id=1493, 352.31625pt x 291.0875pt>
+ <./19.png>] <./20.png, id=1562, 352.31625pt x 291.0875pt>
 File: ./20.png Graphic file (type png)
  <use ./20.png>
 Package pdftex.def Info: ./20.png used on input line 757.
@@ -1810,7 +1810,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [44
 
- <./20.png>] <./21.png, id=1524, 558.085pt x 247.92625pt>
+ <./20.png>] <./21.png, id=1594, 558.085pt x 247.92625pt>
 File: ./21.png Graphic file (type png)
  <use ./21.png>
 Package pdftex.def Info: ./21.png used on input line 767.
@@ -1822,10 +1822,22 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [45
 
- <./21.png>] <./22-1.png, id=1554, 422.57875pt x 511.9125pt>
-File: ./22-1.png Graphic file (type png)
+ <./21.png>]
 
-<use ./22-1.png>
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 771.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 771.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 771.
+
+<./22-1.png, id=1624, 422.57875pt x 511.9125pt>
+File: ./22-1.png Graphic file (type png)
+ <use ./22-1.png>
 Package pdftex.def Info: ./22-1.png used on input line 781.
 (pdftex.def)             Requested size: 161.26508pt x 195.35999pt.
 
@@ -1839,7 +1851,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [46
 
- <./22-1.png>] <./23.png, id=1587, 672.5125pt x 454.69875pt>
+ <./22-1.png>] <./23.png, id=1656, 672.5125pt x 454.69875pt>
 File: ./23.png Graphic file (type png)
  <use ./23.png>
 Package pdftex.def Info: ./23.png used on input line 791.
@@ -1851,7 +1863,7 @@ Overfull \hbox (235.02637pt too wide) has occurred while \output is active
 
 [47
 
- <./23.png>] <./24.png, id=1617, 1146.2825pt x 863.225pt>
+ <./23.png>] <./24.png, id=1686, 1146.2825pt x 863.225pt>
 File: ./24.png Graphic file (type png)
  <use ./24.png>
 Package pdftex.def Info: ./24.png used on input line 804.
@@ -1918,17 +1930,10 @@ aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1184.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1184.
 
+Package rerunfilecheck Info: File `"2011(Alcal´a-Fdez)A Fuzzy Association Rule
+-Based Classification Model for ".out' has not changed.
+(rerunfilecheck)             Checksum: 2BD25056B44E86CA08C6751D6B7D7E86;1755.
 
-
-Package rerunfilecheck Warning: File `"2011(Alcal´a-Fdez)A Fuzzy Association R
-ule-Based Classification Model for ".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"2011(Alcal´a-Fdez)A Fuzzy Associa
-tion Rule-Based Classification Model for ".out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  93DBBDF97C04972A83971B8B3C1689A5;1753.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1939,13 +1944,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1184.
  ) 
 Here is how much of TeX's memory you used:
- 18886 strings out of 493117
- 351283 string characters out of 6135434
- 429935 words of memory out of 5000000
- 21665 multiletter control sequences out of 15000+600000
- 21332 words of font info for 79 fonts, out of 8000000 for 9000
+ 18920 strings out of 493117
+ 351802 string characters out of 6135434
+ 429984 words of memory out of 5000000
+ 21696 multiletter control sequences out of 15000+600000
+ 23506 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,65p,459b,1835s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,65p,543b,1835s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu03.pfb></us
 r/local/texlive/2014/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu20.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/arphic/bsmiu/bsmiu21.pfb></usr/local/texl
@@ -1964,15 +1969,16 @@ sfonts/cm/cmss8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmss9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmssbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmssi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmssi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmssi8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy8.pfb>
 Output written on "2011(Alcal´a-Fdez)A Fuzzy Association Rule-Based Classifica
-tion Model for .pdf" (52 pages, 3661356 bytes).
+tion Model for .pdf" (52 pages, 3671602 bytes).
 PDF statistics:
- 1884 PDF objects out of 2073 (max. 8388607)
- 1717 compressed objects within 18 object streams
+ 1955 PDF objects out of 2073 (max. 8388607)
+ 1787 compressed objects within 18 object streams
  127 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 429 words of extra memory for PDF output out of 10000 (max. 10000000)
 
